@@ -1,16 +1,18 @@
-### Hi there 👋
+- Python, PHP, CSS
+- basic C++, JavaScript
+- SQL
 
-<!--
-**jucuuu/jucuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects:
+- simple recipe website created using the PHP Laravel framework (backend + frontend)
 
-Here are some ideas to get you started:
+![TT_receptes](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=TT_receptes&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- small game created with Python using the PyGame library
+
+![poke-pygame](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=poke-pygame&theme=github_dark)
+
+<hr>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jucuuu&layout=compact&theme=github_dark)
+
+
