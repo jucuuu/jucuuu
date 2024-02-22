@@ -5,11 +5,11 @@
 # Projects:
 - simple recipe website created using the PHP Laravel framework (backend + frontend)
 
-![TT_receptes](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=TT_receptes&theme=github_dark)
+<a href="https://github.com/jucuuu/TT_receptes">![TT_receptes](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=TT_receptes&theme=github_dark)</a>
 
 - small game created with Python using the PyGame library
 
-![poke-pygame](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=poke-pygame&theme=github_dark)
+<a href="https://github.com/jucuuu/poke-pygame">![poke-pygame](https://github-readme-stats.vercel.app/api/pin/?username=jucuuu&repo=poke-pygame&theme=github_dark)</a>
 
 <hr>
 
